@@ -1,1 +1,1 @@
-Hello this is the first trial of git tutorials. Hopefully more to come
+Hello this is the first trial of git tutorials. Hopefully i am done after learning all this
